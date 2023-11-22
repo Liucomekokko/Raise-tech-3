@@ -9,7 +9,8 @@
 ### DB と　SQL
 
 #### ⚫️AP サーバーについて調べてみましょう。
-1.AP サーバーの名前とバージョンを確認してみましょう。　⇨　　Puma version: 5.6.5 rails 7.0.4  
+1.AP サーバーの名前とバージョンを確認してみましょう。　⇨　　Puma version: 5.6.5 rails 7.0.4
+![確認スクリーンショット 2023-11-22 15 56 57](https://github.com/Liucomekokko/Raise-tech-5/assets/139355789/b815f7a1-1880-4d7e-966e-8c61cf11d3ed)
 2.AP サーバーを終了させた場合、引き続きアクセスできますか？結果を確認して、また AP サーバーを起動してください。    
 　　　　　　![起動スクリーンショット 2023-10-11 14 54 49](https://github.com/Liucomekokko/Raise-tech-5/assets/139355789/884b885a-2efc-449f-8424-43baeb35e9c6)
 

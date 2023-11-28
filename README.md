@@ -24,9 +24,10 @@
    
 2.DB サーバーを終了させた場合、引き続きアクセスできますか？  
 　　
-
 ![BDS起動スクリーンショット 2023-11-28 11 18 07](https://github.com/Liucomekokko/Raise-tech-5/assets/139355789/12bf996c-0f09-46b4-b3c7-9b158921e837)
 ![DBS停止スクリーンショット 2023-11-28 11 30 40](https://github.com/Liucomekokko/Raise-tech-5/assets/139355789/85890eed-0b2c-4525-89cb-7ac9fe7599a4)
+![エラースクリーンショット 2023-11-27 15 09 44](https://github.com/Liucomekokko/Raise-tech-5/assets/139355789/b2d1ea74-dae4-46fc-8be4-2e430506e6ad)
+*データベースに保存されているデータ情報をAPサーバからのリクエストに応じてSQLを利用し、データの取得や書き込みをするのがDBサーバの役割。停止してしまうとアクセスできない。
 
 #### ⚫️Rails の構成管理ツールの名前は何でしたか？確認してみてください。
 　　　　　bundlre 2.3.14

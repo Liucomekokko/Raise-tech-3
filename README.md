@@ -26,7 +26,8 @@
 　　
 
 ![BDS起動スクリーンショット 2023-11-28 11 18 07](https://github.com/Liucomekokko/Raise-tech-5/assets/139355789/12bf996c-0f09-46b4-b3c7-9b158921e837)
-![DBS停止スクリーンショット 2023-11-28 11 19 37](https://github.com/Liucomekokko/Raise-tech-5/assets/139355789/8fa56c45-fc40-4a93-8ccf-6c6784be63df)
+![DBS停止スクリーンショット 2023-11-28 11 30 40](https://github.com/Liucomekokko/Raise-tech-5/assets/139355789/85890eed-0b2c-4525-89cb-7ac9fe7599a4)
+
 #### ⚫️Rails の構成管理ツールの名前は何でしたか？確認してみてください。
 　　　　　bundlre 2.3.14
 #### ⚫️今回の課題から学んだことを報告してください。　　
